@@ -1,2 +1,2 @@
 # Simple-Farm
-Farming game with money scoring. Powered by Unity™.
+Farming clicker with money scoring. Powered by Unity™.
